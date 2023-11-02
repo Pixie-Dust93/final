@@ -38,3 +38,17 @@ img{
 .spacing{
 margin-bottom: 5rem;
 }
+
+.photos h3 {
+    color: rgb(0, 255, 255);
+    text-align: center;
+    border: 2px aqua solid;
+    background: rgb(0, 0, 0);
+    padding: 10px;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+}
+.photos p {
+    color:white ;
+    margin-top: 10px;
+}
