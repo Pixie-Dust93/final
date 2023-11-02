@@ -23,7 +23,13 @@ nav {
 a {
     text-decoration: none;
     color: aliceblue;
+    transition: all .3s;
+    font-size: larger;
+}
 
+a:hover{
+    text-decoration: underline;
+    color: rgb(196, 162, 228);
 }
 
 img{
