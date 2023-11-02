@@ -15,6 +15,11 @@ ul {
     list-style: none;
     text-transform: capitalize;
 }
+
+nav {
+    margin-bottom: 5rem;
+}
+
 a {
     text-decoration: none;
     color: aliceblue;
@@ -29,4 +34,7 @@ img{
 .photos{
     display: flex;
     justify-content: space-around;
+}
+.spacing{
+margin-bottom: 5rem;
 }
