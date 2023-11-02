@@ -20,3 +20,13 @@ a {
     color: aliceblue;
 
 }
+
+img{
+    width: 200px;
+    height: 250px;
+}
+
+.photos{
+    display: flex;
+    justify-content: space-around;
+}
