@@ -98,3 +98,11 @@ a:link {
     color: blue;
   
   }
+
+  .banna {
+
+    background-image: url(asset/banna.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+min-height: 80vh;
+  }
