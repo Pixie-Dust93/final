@@ -61,3 +61,40 @@ margin-bottom: 5rem;
     color:white ;
     margin-top: 10px;
 }
+/* unvisited link */
+
+a:link {
+
+    color: darkblue;
+  
+  }
+  
+  
+  
+  /* visited link */
+  
+  a:visited {
+  
+    color: rgb(157, 240, 157);
+  
+  }
+  
+  
+  
+  /* mouse over link */
+  
+  a:hover {
+  
+    color: hotpink;
+  
+  }
+  
+  
+  
+  /* selected link */
+  
+  a:active {
+  
+    color: blue;
+  
+  }
