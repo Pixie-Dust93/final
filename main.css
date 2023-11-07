@@ -53,6 +53,9 @@ margin-bottom: 5rem;
     padding: 10px;
     margin-bottom: 1rem;
     border-radius: 10px;
+    box-shadow: 7px 7px 5px rgba(0, 0, 0, 0.47);
+    text-shadow: 2px 2px 2px rgb(94, 139, 176);
+
 }
 .photos p {
     color:white ;
